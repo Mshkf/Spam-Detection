@@ -3,7 +3,7 @@
 
 Тествовое задание на стажировку
 
-[Ноутбук с обучением](https:)
+[Ноутбук с обучением](https://github.com/Mshkf/Spam-Detection/blob/main/Training.ipynb)
 
 [Скоринг тестовых текстов](https://github.com/Mshkf/Spam-Detection/blob/main/scoring.csv)
 
